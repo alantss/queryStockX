@@ -1,0 +1,14 @@
+{
+  "name": "stockx_lambda",
+  "version": "1.0.0",
+  "description": "Serverless Slack integration that queries StockX using slash commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Boothe",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
