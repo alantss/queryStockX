@@ -14,6 +14,6 @@ Members of the workspace are able to query for general information of the produc
 >/price yeezy boost 350 size 10
 
 ## What I Learnt?
-- Creating RESTFUL APIs using AWS API Gateway.
+- Creating RESTful APIs using AWS API Gateway.
 - Working with AWS Lambda for serverless query handling.
 - Asynchronous code execution with NodeJS.
